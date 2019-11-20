@@ -1,0 +1,9 @@
+c:\users\adebambo tunde\documents\visual studio 2012\Projects\Color Plate\Color Plate\bin\Debug\Color Plate.exe.config
+c:\users\adebambo tunde\documents\visual studio 2012\Projects\Color Plate\Color Plate\bin\Debug\Color Plate.exe
+c:\users\adebambo tunde\documents\visual studio 2012\Projects\Color Plate\Color Plate\bin\Debug\Color Plate.pdb
+c:\users\adebambo tunde\documents\visual studio 2012\Projects\Color Plate\Color Plate\obj\Debug\Color_Plate.Form1.resources
+c:\users\adebambo tunde\documents\visual studio 2012\Projects\Color Plate\Color Plate\obj\Debug\Color_Plate.Properties.Resources.resources
+c:\users\adebambo tunde\documents\visual studio 2012\Projects\Color Plate\Color Plate\obj\Debug\Color Plate.csproj.GenerateResource.Cache
+c:\users\adebambo tunde\documents\visual studio 2012\Projects\Color Plate\Color Plate\obj\Debug\Color Plate.exe
+c:\users\adebambo tunde\documents\visual studio 2012\Projects\Color Plate\Color Plate\obj\Debug\Color Plate.pdb
+C:\Users\Adebambo Tunde\Documents\Visual Studio 2012\Projects\Color Plate\Color Plate\obj\Debug\Color Plate.csprojResolveAssemblyReference.cache

@@ -1,0 +1,90 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Color_Plate.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NewColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="ColorRest" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Silver</Value>
+    </Setting>
+    <Setting Name="ResetColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="Green" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="Red" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="Brown" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="Yellow" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="Orange" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="Violet" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="Aqua" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="Beige" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="Almond" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="Coral" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="DeepPink" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="Cyan" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="FireBrick" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="Gold" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="Indigo" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="Ivory" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="Lavender" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="ABBC" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="Magenta" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkGray</Value>
+    </Setting>
+    <Setting Name="BackGrd2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Silver</Value>
+    </Setting>
+    <Setting Name="FontColor" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Bookman Old Style, 9.75pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="txtColor" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Bookman Old Style, 9.75pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="fontText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Font Color</Value>
+    </Setting>
+    <Setting Name="ColFont" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">WindowText</Value>
+    </Setting>
+    <Setting Name="RealFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Bookman Old Style, 12pt, style=Bold</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
